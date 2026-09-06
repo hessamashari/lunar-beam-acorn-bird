@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Meridian — Integrated Technology & Infrastructure Solutions",
+      "hasCanvas": false,
+      "bodyTextLen": 6765,
+      "bodyTextHash": "b956bb473247fe0a1d495cb302ae0ec4c46038f149e894c1cb2a73975672b2fd",
+      "bodyTextPrefix": "Skip to content MERIDIAN Services ▾ Solutions ▾ Projects About C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Meridian — Integrated Technology & Infrastructure Solutions",
+      "hasCanvas": false,
+      "bodyTextLen": 6619,
+      "bodyTextHash": "f69338b8d4524e71641797b7a31fa88141b1b7f6437bcdf743e08f5f39a7580d",
+      "bodyTextPrefix": "Skip to content MERIDIAN Open menu SYS.01 — INTEGRATED SYSTEMS I",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

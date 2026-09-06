@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/about</loc></url>
+  <url><loc>/services</loc></url>
+  <url><loc>/services/network-infrastructure</loc></url>
+  <url><loc>/services/enterprise-services</loc></url>
+  <url><loc>/services/infrastructure-administration</loc></url>
+  <url><loc>/services/smart-homes-buildings</loc></url>
+  <url><loc>/services/security-surveillance</loc></url>
+  <url><loc>/services/audio-power</loc></url>
+  <url><loc>/services/hardware-support</loc></url>
+  <url><loc>/solutions</loc></url>
+  <url><loc>/solutions/business</loc></url>
+  <url><loc>/solutions/education</loc></url>
+  <url><loc>/solutions/residential</loc></url>
+  <url><loc>/solutions/healthcare-hospitality</loc></url>
+  <url><loc>/solutions/specialized-facilities</loc></url>
+  <url><loc>/projects</loc></url>
+  <url><loc>/projects/enterprise-network-infrastructure</loc></url>
+  <url><loc>/projects/smart-building-automation</loc></url>
+  <url><loc>/projects/cctv-access-control</loc></url>
+  <url><loc>/projects/virtualized-server-environment</loc></url>
+  <url><loc>/consulting</loc></url>
+  <url><loc>/contact</loc></url>
+  <url><loc>/privacy</loc></url>
+  <url><loc>/terms</loc></url>
+</urlset>

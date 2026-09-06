@@ -1,0 +1,37 @@
+import { Button } from "@/components/ui/button";
+
+export function ContactCTA({
+  title = "Have a Technology Project in Mind?",
+  body = "From network infrastructure and server systems to security, automation, and smart environments, we help design and implement technology solutions suited to your environment.",
+}: {
+  title?: string;
+  body?: string;
+}) {
+  return (
+    <section className="relative isolate overflow-hidden bg-ink-950">
+      <img
+        src="/images/cta-texture.jpg"
+        alt=""
+        className="img-editorial absolute inset-0 size-full object-cover opacity-30"
+        loading="lazy"
+      />
+      <div className="absolute inset-0 bg-ink-950/80" />
+      <div className="pointer-events-none absolute inset-0 tech-grid opacity-25" />
+      <div className="wrap relative py-24 text-center lg:py-32">
+        <p className="eyebrow text-almond-400">Next step</p>
+        <h2 className="mx-auto mt-5 max-w-3xl text-3xl text-ink-50 sm:text-5xl">
+          {title}
+        </h2>
+        <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-ink-300">
+          {body}
+        </p>
+        <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">
+          <Button to="/consulting">Request a Consultation</Button>
+          <Button to="/contact" variant="secondary">
+            Contact Us
+          </Button>
+        </div>
+      </div>
+    </section>
+  );
+}
